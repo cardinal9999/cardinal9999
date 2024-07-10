@@ -7,5 +7,3 @@ My best repository is currently [Pekin](https://github.com/cardinal9999/Pekin).
 ![](https://github-profile-trophy.vercel.app/?username=cardinal9999&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cardinal9999&langs_count=9999999&theme=radical&layout=compact)
 
-## What I'm Working On:
-Making a JavaScript version of Pekin.
